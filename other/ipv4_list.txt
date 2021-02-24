@@ -1,3 +1,4 @@
 212.204.64.0/18 # Tomann Online Store
 91.192.192.0/22 # SSL (Solid State Logic)
 158.234.0.0/16 # CGI IT UK Ltd.
+194.6.192.0/22 # Steinberg Online
